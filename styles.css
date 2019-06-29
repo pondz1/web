@@ -1,0 +1,51 @@
+body {
+    background-color: #cfcfcf;
+    font-family: 'Mali', cursive;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    font-size: 65px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    font-family: 'Mali', cursive;
+  }
+  a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color :gray;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(0, 4, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: skyblue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 20px;
+    background-color: aqua;
+  }
+  li {
+    float: left;
+  }
+  li #menu {
+    display: block;
+    padding: 5px;
+    color: black;
+  }
